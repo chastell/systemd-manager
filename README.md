@@ -6,9 +6,9 @@ This application is a systemd service manager written in the Rust programming la
 
 ## Install Instructions
 
-### Arch Linux
+### Arch Linux & Manjaro
 
-This is available in the AUR as a git package: [`systemd-manager-git`](https://aur.archlinux.org/packages/systemd-manager-git/).
+This is available in the AUR as [`systemd-manager`](https://aur.archlinux.org/packages/systemd-manager/).
 
 ### Fedora
 
